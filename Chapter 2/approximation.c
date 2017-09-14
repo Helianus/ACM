@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// find approximative value of pi/4
+// find approximative value of pi/4 = 1 - 1/3 + 1/5 - 1/7 + ......
 int main() {
 	double sum = 0;
 	for(int i = 0; ; i++) {
